@@ -1,6 +1,6 @@
 # cookerr
 
-For the code move to the main->> branch
+For the code move to the master->> branch
 ---------------------------------------------------
                                                ABOUT THE APP
 ---------------------------------------------------             
